@@ -1,4 +1,3 @@
-# INT240106710 Ayberk Yahşi
 
 balance = 100.50
 pin = 4567
